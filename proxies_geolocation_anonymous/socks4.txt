@@ -1,0 +1,36 @@
+37.18.73.60:5566|United States|New York|Buffalo
+171.245.205.132:5201|Vietnam|Tây Ninh Province|Tan Tien
+51.158.105.157:16379|Netherlands|North Holland|Amsterdam
+162.240.208.119:49188|United States|Utah|Provo
+162.19.7.56:25217|United States|Indiana|Carmel
+51.83.184.241:9191|United States|Washington|Seattle
+171.237.138.56:5215|Vietnam|Tinh Quang Ninh|Ha Long
+163.172.131.178:16379|United States|Washington|Seattle
+163.172.161.35:16379|Sweden|Stockholm County|Stockholm
+162.240.16.171:35077|United States|Utah|Provo
+173.249.2.58:47811|Germany|Bavaria|Nuremberg
+91.121.48.221:38711|France|Hauts-de-France|Gravelines
+51.158.64.130:16379|Sweden|Stockholm County|Stockholm
+51.158.113.18:16379|United States|Washington|Seattle
+163.172.147.89:16379|Germany|Brandenburg|Brandenburg
+188.164.194.106:2612|Spain|Valencia|Paterna
+45.91.93.166:21400|Brazil|Parana|Cerro Azul
+163.172.149.133:16379|Denmark|Capital Region|Græsted
+78.46.225.37:19051|Ukraine|Kyiv City|Kyiv
+51.15.210.79:16379|United States|Washington|Seattle
+45.91.93.166:32070|India|Maharashtra|Ambarnath
+8.217.105.210:20111|South Korea|Gwangju|Buk-gu
+173.249.20.169:9060|Netherlands|North Holland|Amsterdam
+45.91.93.166:19853|India|Maharashtra|Ambarnath
+110.185.70.241:7891|Hong Kong|Central and Western District|Central
+163.172.171.22:16379|United States|Washington|Seattle
+51.15.211.42:16379|United States|Washington|Seattle
+164.132.112.208:11519|France|Hauts-de-France|Gravelines
+47.242.57.198:61502|Ukraine|Kyiv City|Kyiv
+51.15.254.129:16379|Germany|Brandenburg|Brandenburg
+51.15.133.214:16379|Germany|Hesse|Frankfurt am Main
+46.17.104.221:19100|Germany|Bavaria|Haßfurt
+111.224.223.77:7891|Hong Kong|Central and Western District|Central
+45.91.93.166:32738|Brazil|Sao Paulo|São Paulo
+125.141.139.197:5566|Germany|Baden-Wurttemberg|Karlsruhe
+125.141.139.198:5566|Germany|Brandenburg|Brandenburg

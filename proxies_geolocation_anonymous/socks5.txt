@@ -1,0 +1,59 @@
+212.83.138.132:44870|Germany|Hesse|Frankfurt am Main
+162.0.220.216:22285|United States|Vermont|Burlington
+171.245.205.132:5201|Vietnam|Tây Ninh Province|Tan Tien
+67.213.212.58:41126|United States|Michigan|Gaylord
+212.83.137.94:49024|United States|California|San Jose
+209.159.153.20:35564|United States|Oregon|Portland
+14.221.172.105:7891|Hong Kong|Central and Western District|Hong Kong
+194.124.36.106:10820|Turkey|Istanbul|Istanbul
+36.111.142.184:15778|Taiwan|Taipei City|Taipei City
+67.213.212.38:12689|United States|Illinois|Rockford
+185.198.58.47:49403|Spain|Canary Islands|Puerto del Rosario
+51.83.184.241:9191|Germany|Brandenburg|Brandenburg
+175.147.70.82:7891|South Korea|Seoul|Seoul
+202.149.89.70:7999|Indonesia|Jakarta|Jakarta
+103.112.128.37:9091|Bangladesh|Dhaka Division|Savar Upazila
+60.184.11.203:7891|United States|California|San Jose
+119.148.8.54:9990|Bangladesh|Dhaka Division|Dhaka
+111.224.223.77:7891|Hong Kong|Central and Western District|Central
+119.122.113.28:7891|Hong Kong|Wan Chai|Wanchai
+51.158.105.107:16379|United States|Washington|Seattle
+67.213.212.49:24661|United States|New York|Gansevoort
+212.83.143.223:12516|United Kingdom|England|Gloucester
+51.254.167.41:57399|France|Hauts-de-France|Gravelines
+23.88.121.205:20081|United States|Missouri|St Louis
+47.100.184.89:80|China|Shanghai|Shanghai
+51.15.252.246:16379|Netherlands|North Holland|Amsterdam
+162.241.158.204:41448|United States|Georgia|Atlanta
+185.231.115.246:7237|Netherlands|North Holland|Amsterdam
+51.15.143.160:16379|Germany|Brandenburg|Brandenburg
+222.78.104.49:7891|Singapore|Central Singapore|Singapore
+114.218.228.99:7891|Taiwan|Changhua|Chang-hua
+89.208.30.221:7894|Russia|Belgorod Oblast|Bessonovka
+45.91.93.166:32738|Brazil|Sao Paulo|São Paulo
+185.220.236.38:7890|Hong Kong|Central and Western District|Hong Kong
+67.213.212.58:40506|United States|Utah|Roy
+95.217.122.41:54339|Finland|Uusimaa|Helsinki
+132.148.128.88:61777|United States|Arizona|Tempe
+163.172.169.27:16379|United Kingdom|England|London
+163.172.149.133:16379|United States|Washington|Seattle
+163.172.171.22:16379|Netherlands|Limburg|Eygelshoven
+51.15.196.107:16379|Germany|Brandenburg|Brandenburg
+162.240.16.171:37827|United States|Utah|Provo
+151.106.13.114:58852|France|Grand Est|Strasbourg
+45.91.93.166:19853|India|Maharashtra|Ambarnath
+36.20.87.176:7891|Vietnam|Hanoi|Cầu Diễn
+91.121.48.221:55348|France|Hauts-de-France|Gravelines
+115.227.94.185:10808|United States|Florida|Miami
+220.247.165.142:9990|Bangladesh|Dhaka Division|Dhaka
+45.91.93.166:32070|India|Maharashtra|Ambarnath
+131.186.37.99:8080|Moldova|Chișinău Municipality|Chisinau
+125.141.139.198:5566|United States|Washington|Seattle
+164.132.112.208:11519|France|Hauts-de-France|Gravelines
+163.172.147.89:16379|United States|New York|New York
+110.185.70.241:7891|Vietnam|Hanoi|Hanoi
+68.183.245.222:59594|India|Karnataka|Bengaluru
+125.141.139.197:5566|Netherlands|North Holland|Amsterdam
+23.248.163.222:13384|Philippines|Metro Manila|Manila
+113.103.66.195:7891|Singapore|South West|Singapore
+125.141.133.99:5566|Poland|Mazovia|Warsaw

@@ -1,0 +1,419 @@
+212.83.138.132:44870|Germany|Hesse|Frankfurt am Main
+37.59.56.111:59166|France|Hauts-de-France|Roubaix
+179.43.182.73:8080|Switzerland|Zurich|Zurich
+192.111.130.2:4145|United States|Georgia|Atlanta
+184.170.245.148:4145|United States|Georgia|Atlanta
+199.58.184.97:4145|United States|Georgia|Atlanta
+192.252.216.81:4145|United States|Georgia|Atlanta
+38.242.244.63:48083|Germany|North Rhine-Westphalia|Düsseldorf
+72.206.181.123:4145|United States|Arizona|Phoenix
+206.220.175.2:4145|United States|California|Los Angeles
+199.116.114.11:4145|United States|California|El Segundo
+72.37.216.68:4145|United States|California|Beverly Hills
+72.206.181.97:64943|United States|Arizona|Phoenix
+67.201.59.70:4145|United States|California|El Segundo
+192.111.139.162:4145|United States|Georgia|Atlanta
+154.31.114.3:1234|United States|California|San Jose
+192.111.139.165:4145|United States|Georgia|Atlanta
+74.119.147.209:4145|United States|Georgia|Atlanta
+192.252.220.92:17328|United States|California|Los Angeles
+162.0.220.216:22285|United States|Vermont|Burlington
+199.102.105.242:4145|United States|California|Beverly Hills
+98.170.57.249:4145|United States|Georgia|Atlanta
+192.252.209.155:14455|United States|Georgia|Atlanta
+113.137.37.41:1080|China|Shaanxi|Xi'an
+70.166.167.38:57728|United States|Arizona|Mesa
+61.175.213.190:7302|China|Zhejiang|Hangzhou
+171.245.205.132:5201|Vietnam|Tây Ninh Province|Tan Tien
+220.247.163.185:9990|Bangladesh|Dhaka Division|Dhaka
+91.107.146.63:1234|Germany|Hesse|Frankfurt Am Main
+152.32.130.117:18080|Hong Kong|Central and Western District|Hong Kong
+194.190.169.197:3701|Russia|Moscow|Moscow
+142.54.231.38:4145|United States|California|Los Angeles
+98.162.25.29:31679|United States|Nebraska|Omaha
+184.170.248.5:4145|United States|Georgia|Atlanta
+107.152.98.5:4145|United States|California|Los Angeles
+185.247.224.85:8080|Romania|Bucharest|Bucharest
+142.44.212.57:30439|Canada|Quebec|Beauharnois
+142.54.235.9:4145|United States|California|Los Angeles
+192.111.134.10:4145|United States|California|Los Angeles
+72.37.217.3:4145|United States|New York|Syracuse
+31.211.142.115:8192|Bulgaria|Pleven|Pleven
+104.37.135.145:4145|United States|California|El Segundo
+67.213.212.58:41126|United States|Michigan|Gaylord
+212.83.137.94:49024|United States|California|San Jose
+65.169.38.73:26592|United States|Georgia|Atlanta
+184.170.249.65:4145|United States|Georgia|Atlanta
+209.159.153.20:35564|United States|Oregon|Portland
+192.111.129.145:16894|United States|Georgia|Atlanta
+157.245.49.74:55555|Singapore|Central Singapore|Singapore
+199.102.106.94:4145|United States|California|Beverly Hills
+158.101.31.229:1234|United States|Arizona|Phoenix
+162.253.68.97:4145|United States|California|Los Angeles
+14.221.172.105:7891|Hong Kong|Central and Western District|Hong Kong
+142.54.236.97:4145|United States|California|Los Angeles
+120.198.145.18:7302|China|Guangdong|Shenzhen
+103.144.18.137:2002|Indonesia|East Java|Jember
+184.185.2.12:4145|United States|Nebraska|Omaha
+194.124.36.106:10820|Turkey|Istanbul|Istanbul
+72.206.181.105:64935|United States|Arizona|Phoenix
+38.150.13.76:1234|Hong Kong|Yau Tsim Mong|Mong Kok
+43.156.250.9:15673|Singapore|North West|Singapore
+47.243.239.165:8870|Hong Kong|Central and Western District|Hong Kong
+104.200.152.30:4145|United States|California|Los Angeles
+162.243.237.104:20414|United States|New York|New York
+72.210.252.134:46164|United States|Arizona|Phoenix
+36.111.142.184:15778|Taiwan|Taipei City|Taipei City
+67.213.212.38:12689|United States|Illinois|Rockford
+142.54.232.6:4145|United States|California|Los Angeles
+172.85.108.78:54505|United States|California|Los Angeles
+199.187.210.54:4145|United States|California|Los Angeles
+167.99.5.52:59919|United States|New Jersey|North Bergen
+173.236.192.232:30389|United States|California|Brea
+80.169.243.234:1080|United Kingdom|England|London
+199.102.107.145:4145|United States|California|Beverly Hills
+185.198.58.47:49403|Spain|Canary Islands|Puerto del Rosario
+192.111.137.34:18765|United States|Georgia|Atlanta
+142.54.237.34:4145|United States|California|Los Angeles
+72.210.252.137:4145|United States|Arizona|Phoenix
+68.71.254.6:4145|United States|California|Beverly Hills
+51.83.184.241:9191|Germany|Brandenburg|Brandenburg
+103.112.130.38:9091|Bangladesh|Dhaka Division|Savar Upazila
+192.111.135.18:18301|United States|Georgia|Atlanta
+207.244.246.147:61400|United States|Missouri|St Louis
+144.91.113.229:25140|Germany|Bavaria|Nuremberg
+184.178.172.28:15294|United States|Virginia|Roanoke
+69.61.200.104:36181|United States|Ohio|Cincinnati
+207.180.241.82:63326|Germany|Bavaria|Nuremberg
+175.147.70.82:7891|South Korea|Seoul|Seoul
+138.68.17.164:52399|United States|California|Santa Clara
+202.149.89.70:7999|Indonesia|Jakarta|Jakarta
+66.42.224.229:41679|United States|Ohio|Hamilton
+115.127.106.226:9990|Bangladesh|Dhaka Division|Dhaka
+37.187.77.58:22982|France|Hauts-de-France|Gravelines
+103.112.128.37:9091|Bangladesh|Dhaka Division|Savar Upazila
+98.162.25.16:4145|United States|Nebraska|Omaha
+176.9.85.211:55238|Germany|Saxony|Falkenstein
+72.206.181.103:4145|United States|Arizona|Phoenix
+159.203.127.15:12764|United States|New Jersey|Clifton
+60.184.11.203:7891|United States|California|San Jose
+192.252.220.89:4145|United States|California|Los Angeles
+223.112.53.2:1025|China|Jiangsu|Nanjing
+198.11.175.180:8011|China|Beijing|Beijing
+159.138.255.141:82|China|Beijing|Beijing
+167.71.205.1:16900|Singapore|South West|Singapore
+119.148.8.54:9990|Bangladesh|Dhaka Division|Dhaka
+47.252.1.180:5678|China|Beijing|Beijing
+39.104.26.204:8001|China|Beijing|Beijing
+8.219.5.240:5555|China|Beijing|Beijing
+110.238.109.146:2080|China|Beijing|Beijing
+91.149.240.238:1297|Netherlands|North Holland|Amsterdam
+37.187.120.71:30982|France|Hauts-de-France|Gravelines
+111.224.223.77:7891|Hong Kong|Central and Western District|Central
+38.127.172.16:45801|United States|District of Columbia|Washington
+173.212.253.25:22248|Germany|Bavaria|Nuremberg
+54.36.108.149:57269|Germany|Saarland|Saarbrücken
+119.148.1.41:9990|Bangladesh|Dhaka Division|Dhaka
+119.122.113.28:7891|Hong Kong|Wan Chai|Wanchai
+8.208.90.194:8045|China|Beijing|Beijing
+208.102.51.6:58208|United States|Kentucky|Alexandria
+116.68.196.6:9990|Bangladesh|Dhaka Division|Dhaka
+103.174.178.144:2016|Indonesia|East Java|Jember
+51.158.105.107:16379|United States|Washington|Seattle
+8.209.68.1:2080|China|Beijing|Beijing
+67.213.212.49:24661|United States|New York|Gansevoort
+212.83.143.223:12516|United Kingdom|England|Gloucester
+115.29.151.41:9090|China|Beijing|Beijing
+188.165.237.26:52982|France|Hauts-de-France|Roubaix
+47.91.45.235:4216|China|Beijing|Beijing
+51.254.167.41:57399|France|Hauts-de-France|Gravelines
+47.113.230.224:81|China|Beijing|Beijing
+119.148.4.51:9990|Bangladesh|Dhaka Division|Dhaka
+23.88.121.205:20081|United States|Missouri|St Louis
+47.100.184.89:80|China|Shanghai|Shanghai
+115.127.77.164:9990|Bangladesh|Dhaka Division|Dhaka
+123.56.129.203:30001|China|Beijing|Beijing
+104.248.57.195:3710|United States|New Jersey|North Bergen
+47.113.230.224:87|China|Beijing|Beijing
+47.96.70.163:8181|China|Beijing|Beijing
+8.213.128.6:1080|China|Beijing|Beijing
+176.106.34.47:34147|Poland|Silesia|Sośnicowice
+116.97.240.147:4996|Vietnam|Hanoi|Hanoi
+8.219.5.240:8118|China|Beijing|Beijing
+120.79.31.133:20201|China|Beijing|Beijing
+221.134.152.75:7302|India|West Bengal|Kolkata
+8.209.243.173:8081|China|Beijing|Beijing
+51.15.252.246:16379|Netherlands|North Holland|Amsterdam
+162.241.158.204:41448|United States|Georgia|Atlanta
+72.217.216.239:4145|United States|Arizona|Phoenix
+178.33.162.89:56720|Spain|Madrid|Madrid
+142.54.228.193:4145|United States|California|Los Angeles
+185.231.115.246:7237|Netherlands|North Holland|Amsterdam
+37.221.67.107:8080|Moldova|Chișinău Municipality|Chisinau
+176.197.219.74:1080|Russia|Kemerovo Oblast|Leninsk-Kuznetsky
+51.15.143.160:16379|Germany|Brandenburg|Brandenburg
+184.178.172.13:15311|United States|Virginia|Roanoke
+8.210.37.63:3128|China|Beijing|Beijing
+184.178.172.5:15303|United States|Virginia|Roanoke
+109.238.11.197:58168|France|Île-de-France|Boulogne-Billancourt
+167.71.205.1:43581|Singapore|South West|Singapore
+98.162.25.4:31654|United States|Nebraska|Omaha
+154.53.164.100:48102|Turkey|Istanbul|Istanbul
+121.148.186.182:51214|South Korea|Gwangju|Gwangsan-gu
+51.79.87.144:54395|Canada|Quebec|Beauharnois
+159.203.127.164:4781|United States|New Jersey|Clifton
+188.166.234.144:11471|Singapore|South West|Singapore
+103.174.178.138:2016|Indonesia|East Java|Jember
+78.158.162.43:1080|Iran|Kurdistan Province|Bījār
+192.99.167.233:56534|Canada|Quebec|Beauharnois
+104.248.225.143:7200|United States|New Jersey|North Bergen
+8.209.68.1:8999|China|Beijing|Beijing
+192.252.211.197:14921|United States|Georgia|Atlanta
+104.219.42.115:64912|United States|Pennsylvania|Philadelphia
+47.253.105.175:8081|China|Beijing|Beijing
+47.254.158.115:19|China|Beijing|Beijing
+110.238.113.119:80|China|Beijing|Beijing
+184.178.172.23:4145|United States|Virginia|Roanoke
+62.171.131.101:18305|Germany|Bavaria|Nuremberg
+81.143.236.200:443|United Kingdom|England|London
+128.199.183.41:34076|Singapore|South West|Singapore
+222.78.104.49:7891|Singapore|Central Singapore|Singapore
+184.178.172.17:4145|United States|Virginia|Roanoke
+114.218.228.99:7891|Taiwan|Changhua|Chang-hua
+139.129.231.228:8082|China|Beijing|Beijing
+184.181.217.201:4145|United States|Florida|Pensacola
+47.91.45.198:9000|China|Beijing|Beijing
+47.98.134.232:7777|China|Beijing|Beijing
+8.219.74.58:8024|China|Beijing|Beijing
+89.208.30.221:7894|Russia|Belgorod Oblast|Bessonovka
+8.219.43.134:1234|China|Beijing|Beijing
+43.133.59.200:15673|Singapore|North West|Singapore
+47.91.95.174:9000|China|Beijing|Beijing
+115.29.151.41:1337|China|Beijing|Beijing
+8.208.90.194:8118|China|Beijing|Beijing
+98.162.25.23:4145|United States|Nebraska|Omaha
+47.92.248.197:8889|China|Beijing|Beijing
+47.254.153.78:8888|China|Beijing|Beijing
+199.102.104.70:4145|United States|California|Beverly Hills
+198.11.175.180:81|China|Beijing|Beijing
+47.88.11.3:8009|China|Beijing|Beijing
+47.91.45.198:14|China|Beijing|Beijing
+47.254.153.78:5566|China|Beijing|Beijing
+47.252.1.180:102|China|Beijing|Beijing
+184.178.172.18:15280|United States|Virginia|Roanoke
+49.0.199.132:7777|China|Beijing|Beijing
+142.44.247.105:61967|Canada|Quebec|Beauharnois
+159.138.252.45:4444|China|Beijing|Beijing
+8.219.74.58:88|China|Beijing|Beijing
+101.36.120.133:30010|Hong Kong|Central and Western District|Hong Kong
+37.187.77.58:19568|France|Hauts-de-France|Gravelines
+8.208.89.32:8118|China|Beijing|Beijing
+139.224.56.162:1337|China|Beijing|Beijing
+101.200.235.69:9443|China|Beijing|Beijing
+110.238.113.119:1000|China|Beijing|Beijing
+47.253.214.60:2080|China|Beijing|Beijing
+51.68.164.77:49005|Germany|Hesse|Limburg an der Lahn
+47.91.95.174:8888|China|Beijing|Beijing
+47.92.248.197:5555|China|Beijing|Beijing
+128.199.234.135:26776|Singapore|South West|Singapore
+110.238.116.82:8015|China|Beijing|Beijing
+47.252.1.180:4006|China|Beijing|Beijing
+188.164.194.155:39158|Spain|Valencia|Paterna
+39.104.89.111:8181|China|Beijing|Beijing
+47.109.56.77:8020|China|Beijing|Beijing
+47.113.230.224:9000|China|Beijing|Beijing
+110.238.109.146:8888|China|Beijing|Beijing
+8.213.128.90:2019|China|Beijing|Beijing
+159.138.255.141:7777|China|Beijing|Beijing
+101.200.235.69:82|China|Beijing|Beijing
+110.238.113.119:443|China|Beijing|Beijing
+47.74.71.208:8090|China|Beijing|Beijing
+47.252.20.42:6969|China|Beijing|Beijing
+120.55.49.231:41890|China|Beijing|Beijing
+47.113.203.122:83|China|Beijing|Beijing
+47.91.45.235:8080|China|Beijing|Beijing
+70.166.167.55:57745|United States|Arizona|Mesa
+47.245.34.161:9999|China|Beijing|Beijing
+98.162.25.7:31653|United States|Nebraska|Omaha
+184.178.172.14:4145|United States|Virginia|Roanoke
+198.11.175.192:3129|China|Beijing|Beijing
+47.92.247.250:8118|China|Beijing|Beijing
+110.238.116.82:20201|China|Beijing|Beijing
+47.109.46.223:5678|China|Beijing|Beijing
+47.113.219.226:5001|China|Beijing|Beijing
+184.181.217.194:4145|United States|Florida|Pensacola
+141.94.174.6:63950|France|Hauts-de-France|Gravelines
+212.83.146.7:8070|France|Île-de-France|Paris
+47.113.219.226:8888|China|Beijing|Beijing
+72.49.49.11:31034|United States|Ohio|Cincinnati
+107.180.88.112:64024|United States|Virginia|Ashburn
+47.96.70.163:9992|China|Beijing|Beijing
+194.163.163.116:35385|Germany|North Rhine-Westphalia|Düsseldorf
+121.40.115.140:80|China|Beijing|Beijing
+120.55.49.231:9992|China|Beijing|Beijing
+8.213.137.155:503|China|Beijing|Beijing
+123.57.1.16:808|China|Beijing|Beijing
+39.104.62.128:8002|China|Beijing|Beijing
+122.117.162.248:1080|Taiwan|Tainan|Tainan City
+47.100.90.127:10443|China|Beijing|Beijing
+47.92.248.86:59394|China|Beijing|Beijing
+45.91.93.166:32738|Brazil|Sao Paulo|São Paulo
+120.79.34.201:3128|China|Beijing|Beijing
+8.219.74.58:19|China|Beijing|Beijing
+47.243.50.83:6666|China|Beijing|Beijing
+195.201.173.249:12283|Germany|Bavaria|Gunzenhausen
+47.109.56.77:5001|China|Beijing|Beijing
+185.220.236.38:7890|Hong Kong|Central and Western District|Hong Kong
+148.72.158.147:60133|United States|Missouri|St Louis
+49.0.253.51:3128|China|Beijing|Beijing
+47.92.247.250:9992|China|Beijing|Beijing
+49.0.253.51:7777|China|Beijing|Beijing
+8.213.128.90:2020|China|Beijing|Beijing
+47.91.45.235:70|China|Beijing|Beijing
+23.94.50.224:15673|United States|Georgia|Atlanta
+120.79.34.201:83|China|Beijing|Beijing
+115.29.140.201:8499|China|Beijing|Beijing
+8.213.128.90:3129|China|Beijing|Beijing
+49.0.246.130:999|China|Beijing|Beijing
+39.101.65.228:7777|China|Beijing|Beijing
+98.170.57.231:4145|United States|Georgia|Atlanta
+45.33.21.96:52421|United States|Texas|Richardson
+51.210.5.202:29136|France|Grand Est|Strasbourg
+45.61.188.134:44499|United States|Florida|Miami
+5.75.161.31:46918|Germany|Bavaria|Nuremberg
+43.133.11.253:15673|Japan|Tokyo|Tokyo
+104.248.225.143:12271|United States|New Jersey|North Bergen
+49.0.246.130:3132|China|Beijing|Beijing
+110.238.113.119:4444|China|Beijing|Beijing
+47.100.90.127:4444|China|Beijing|Beijing
+8.213.129.15:9999|China|Beijing|Beijing
+8.219.5.240:111|China|Beijing|Beijing
+47.253.214.60:95|China|Beijing|Beijing
+47.253.214.60:4153|China|Beijing|Beijing
+39.104.79.145:443|China|Beijing|Beijing
+8.219.5.240:2000|China|Beijing|Beijing
+98.178.72.21:10919|United States|Florida|Pensacola
+47.91.45.235:81|China|Beijing|Beijing
+47.88.11.3:11|China|Beijing|Beijing
+119.13.111.169:80|China|Beijing|Beijing
+67.213.212.58:40506|United States|Utah|Roy
+184.181.217.220:4145|United States|Florida|Pensacola
+72.210.221.223:4145|United States|Arizona|Phoenix
+95.217.122.41:54339|Finland|Uusimaa|Helsinki
+51.75.125.208:46710|France|Hauts-de-France|Gravelines
+51.15.135.81:1080|France|Île-de-France|Vitry-sur-Seine
+39.104.79.145:3333|China|Beijing|Beijing
+47.91.56.120:2080|China|Beijing|Beijing
+47.252.1.180:19|China|Beijing|Beijing
+8.219.5.240:8080|China|Beijing|Beijing
+8.219.169.172:8080|China|Beijing|Beijing
+115.29.151.41:8020|China|Beijing|Beijing
+49.0.199.132:6666|China|Beijing|Beijing
+8.219.5.240:56|China|Beijing|Beijing
+8.219.74.58:5000|China|Beijing|Beijing
+47.243.124.21:5001|China|Beijing|Beijing
+8.213.129.20:8002|China|Beijing|Beijing
+142.54.239.1:4145|United States|California|Los Angeles
+132.148.128.88:61777|United States|Arizona|Tempe
+159.138.255.141:3129|China|Beijing|Beijing
+94.74.80.88:7777|China|Beijing|Beijing
+115.29.149.2:7890|China|Beijing|Beijing
+8.219.169.172:1234|China|Beijing|Beijing
+8.213.129.20:8024|China|Beijing|Beijing
+192.252.208.67:14287|United States|Georgia|Atlanta
+8.142.3.145:3306|China|Beijing|Beijing
+8.210.37.63:4006|China|Beijing|Beijing
+138.68.24.185:59307|United States|California|Santa Clara
+103.174.178.133:1020|Indonesia|East Java|Jember
+163.172.169.27:16379|United Kingdom|England|London
+184.178.172.3:4145|United States|Virginia|Roanoke
+43.153.99.10:27877|United States|California|Santa Clara
+165.227.200.218:17007|United States|New Jersey|North Bergen
+148.72.158.147:57278|United States|Missouri|St Louis
+103.174.178.131:1020|Indonesia|East Java|Jember
+220.247.162.70:9990|Bangladesh|Dhaka Division|Dhaka
+88.99.91.33:32804|Germany|Saxony|Falkenstein
+51.79.207.184:11847|Singapore|Central Singapore|Singapore
+8.210.98.45:15673|Hong Kong|Central and Western District|Hong Kong
+8.217.74.168:15673|Hong Kong|Central and Western District|Hong Kong
+184.178.172.26:4145|United States|Virginia|Roanoke
+184.181.217.206:4145|United States|Florida|Pensacola
+104.219.42.115:61913|United States|Pennsylvania|Philadelphia
+162.243.140.82:18782|United States|California|San Francisco
+194.163.160.203:9134|Germany|North Rhine-Westphalia|Düsseldorf
+8.222.184.251:15673|Singapore|North West|Singapore
+2.59.119.20:52398|Turkey|Istanbul|Istanbul
+67.225.240.119:50358|United States|Michigan|Lansing
+8.217.29.57:15673|Hong Kong|Central and Western District|Hong Kong
+8.218.60.8:15673|Hong Kong|Central and Western District|Hong Kong
+85.175.226.248:1080|Russia|Krasnodar Krai|Krasnodar
+163.172.149.133:16379|United States|Washington|Seattle
+43.163.210.190:15673|Japan|Tokyo|Tokyo
+163.172.171.22:16379|Netherlands|Limburg|Eygelshoven
+51.15.196.107:16379|Germany|Brandenburg|Brandenburg
+8.219.238.209:15673|Singapore|North West|Singapore
+8.219.152.206:27300|Singapore|North West|Singapore
+162.240.58.147:50307|United States|Utah|Provo
+8.219.82.234:15673|Singapore|North West|Singapore
+120.244.86.122:1080|China|Beijing|Beijing
+162.240.16.171:37827|United States|Utah|Provo
+8.218.88.106:15673|Hong Kong|Central and Western District|Hong Kong
+8.210.151.111:15673|Hong Kong|Central and Western District|Hong Kong
+5.75.161.31:47519|Germany|Bavaria|Nuremberg
+128.140.87.149:1234|Germany|Saxony|Falkenstein
+151.106.13.114:58852|France|Grand Est|Strasbourg
+174.64.199.79:4145|United States|Florida|Pensacola
+162.214.170.144:41177|United States|Utah|Provo
+45.91.93.166:19853|India|Maharashtra|Ambarnath
+36.20.87.176:7891|Vietnam|Hanoi|Cầu Diễn
+43.134.161.136:15673|Singapore|North West|Singapore
+91.121.48.221:55348|France|Hauts-de-France|Gravelines
+184.168.121.153:17673|Singapore|North West|Singapore
+192.99.201.39:14488|Canada|Quebec|Beauharnois
+51.222.241.8:14162|Canada|Quebec|Beauharnois
+23.95.233.169:33806|United States|New York|Buffalo
+149.28.44.107:51157|United States|New Jersey|Piscataway
+170.106.179.191:33468|United States|California|Santa Clara
+51.79.177.70:2897|Singapore|Central Singapore|Singapore
+115.127.31.163:9990|Bangladesh|Dhaka Division|Dhaka
+91.105.163.245:1080|Russia|Kemerovo Oblast|Kemerovo
+175.24.205.226:443|China|Guangdong|Shenzhen
+115.227.94.185:10808|United States|Florida|Miami
+220.247.165.142:9990|Bangladesh|Dhaka Division|Dhaka
+184.178.172.25:15291|United States|Virginia|Roanoke
+23.94.49.162:24429|United States|Georgia|Atlanta
+45.91.93.166:32070|India|Maharashtra|Ambarnath
+188.191.164.55:4890|Russia|Moscow|Moscow
+46.241.57.29:1080|Russia|Altai Krai|Barnaul
+221.156.247.86:53232|South Korea|Gwangju|Gwangsan-gu
+154.31.112.8:41650|United States|California|San Jose
+72.217.158.202:4145|United States|Arizona|Phoenix
+5.75.161.31:41761|Germany|Bavaria|Nuremberg
+109.205.181.27:40759|Germany|North Rhine-Westphalia|Düsseldorf
+107.180.94.137:6944|United States|Virginia|Ashburn
+8.217.63.204:15673|Hong Kong|Central and Western District|Hong Kong
+8.217.34.2:15673|Hong Kong|Central and Western District|Hong Kong
+131.186.37.99:8080|Moldova|Chișinău Municipality|Chisinau
+119.148.55.122:9990|Bangladesh|Dhaka Division|Dhaka
+125.141.139.198:5566|United States|Washington|Seattle
+72.195.34.41:4145|United States|California|Irvine
+164.132.112.208:11519|France|Hauts-de-France|Gravelines
+207.244.229.34:27825|United States|Missouri|St Louis
+163.172.147.89:16379|United States|New York|New York
+8.219.145.82:25111|Singapore|North West|Singapore
+8.217.123.96:15673|Hong Kong|Central and Western District|Hong Kong
+202.86.138.18:8080|Macao||Macao
+5.189.184.147:20993|Germany|Bavaria|Nuremberg
+154.38.161.76:58381|United States|Missouri|St Louis
+110.185.70.241:7891|Vietnam|Hanoi|Hanoi
+8.219.214.194:15673|Singapore|North West|Singapore
+98.181.137.83:4145|United States|Nevada|Las Vegas
+68.183.245.222:59594|India|Karnataka|Bengaluru
+178.128.86.128:24268|Singapore|South West|Singapore
+125.141.139.197:5566|Netherlands|North Holland|Amsterdam
+98.181.137.80:4145|United States|Nevada|Las Vegas
+192.162.84.150:31999|Germany|North Rhine-Westphalia|Dortmund
+23.248.163.222:13384|Philippines|Metro Manila|Manila
+174.77.111.196:4145|United States|Florida|Pensacola
+113.103.66.195:7891|Singapore|South West|Singapore
+125.141.133.99:5566|Poland|Mazovia|Warsaw
